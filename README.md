@@ -33,3 +33,5 @@ Console.WriteLine(json.Get("name"));
 JSONArray datas = json.GetJSONArray("data");  
 Console.WriteLine(datas.GetJSONObject(0).GetString("book"));  
 ```
+### 下载
+[Download](https://github.com/ccwant/ForceJson/releases) 
